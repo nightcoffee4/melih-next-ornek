@@ -8,6 +8,7 @@ function HomePage() {
         <title>Anasayfa</title>
       </Head>
       <h1>Welcome to Antalya</h1>
+      <h2>Merhaba Ozan Cankal!</h2>
 
       <style jsx>{``}</style>
     </Layout>
