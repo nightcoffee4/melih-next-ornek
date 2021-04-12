@@ -10,7 +10,7 @@ function Layout({ children }) {
       </Head>
       <Navigation />
       <main>{children}</main>
-      <footer>design by melihdd</footer>
+      <footer>design by melih (footer)</footer>
     </div>
   );
 }
